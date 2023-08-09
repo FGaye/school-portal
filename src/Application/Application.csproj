@@ -7,9 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Courses\" />
-    <Folder Include="Lecturers\" />
-    <Folder Include="NewFolder\" />
+    <Folder Include="Studen\" />
   </ItemGroup>
 
 </Project>
