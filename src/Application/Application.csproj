@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Courses\Commands\" />
+    <Folder Include="Courses\Queries\" />
+    <Folder Include="Lecturers\" />
+    <Folder Include="SchoolAdmins\" />
+    <Folder Include="Students\" />
+  </ItemGroup>
+
 </Project>
