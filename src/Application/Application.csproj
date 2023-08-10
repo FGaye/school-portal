@@ -9,9 +9,12 @@
   <ItemGroup>
     <Folder Include="Courses\Commands\" />
     <Folder Include="Courses\Queries\" />
-    <Folder Include="Lecturers\" />
-    <Folder Include="SchoolAdmins\" />
-    <Folder Include="Students\" />
+    <Folder Include="Lecturers\Commands\" />
+    <Folder Include="Lecturers\Queries\" />
+    <Folder Include="SchoolAdmins\Commands\" />
+    <Folder Include="SchoolAdmins\Queries\" />
+    <Folder Include="Students\Commands\" />
+    <Folder Include="Students\Queries\" />
   </ItemGroup>
 
 </Project>
